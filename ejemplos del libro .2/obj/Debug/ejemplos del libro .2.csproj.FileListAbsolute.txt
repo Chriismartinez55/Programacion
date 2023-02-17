@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\bin\Debug\ejemplos_del_libro._2.exe.config
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\bin\Debug\ejemplos_del_libro._2.exe
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\bin\Debug\ejemplos_del_libro._2.pdb
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos del libro .2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos del libro .2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos_del_libro._2.Form1.resources
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos_del_libro._2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos del libro .2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos del libro .2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos_del_libro._2.exe
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libro .2\ejemplos del libro .2\obj\Debug\ejemplos_del_libro._2.pdb
