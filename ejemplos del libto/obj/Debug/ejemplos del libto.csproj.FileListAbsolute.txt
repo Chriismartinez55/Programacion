@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\bin\Debug\ejemplos del libto.exe.config
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\bin\Debug\ejemplos del libto.exe
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\bin\Debug\ejemplos del libto.pdb
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos_del_libto.Form1.resources
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos_del_libto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.exe
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos del libto.pdb
+C:\Users\Usuario\Desktop\ejemplos del libro\ejemplos del libto\ejemplos del libto\obj\Debug\ejemplos_del_libto.Form2.resources

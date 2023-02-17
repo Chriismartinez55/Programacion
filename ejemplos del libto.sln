@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplos del libto", "ejemplos del libto\ejemplos del libto.csproj", "{04FAF9E3-1292-4D53-912F-9AC1B98BCEFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FAF9E3-1292-4D53-912F-9AC1B98BCEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FAF9E3-1292-4D53-912F-9AC1B98BCEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FAF9E3-1292-4D53-912F-9AC1B98BCEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FAF9E3-1292-4D53-912F-9AC1B98BCEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3EE50C-F4BB-4011-ACA9-B67AFD1C2C13}
+	EndGlobalSection
+EndGlobal
