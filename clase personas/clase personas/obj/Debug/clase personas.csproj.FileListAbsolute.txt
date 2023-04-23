@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\bin\Debug\clase personas.exe.config
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\bin\Debug\clase personas.exe
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\bin\Debug\clase personas.pdb
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase_personas.Form1.resources
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase_personas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.exe
+C:\Users\Usuario\Desktop\Datagripview\clase personas\clase personas\obj\Debug\clase personas.pdb

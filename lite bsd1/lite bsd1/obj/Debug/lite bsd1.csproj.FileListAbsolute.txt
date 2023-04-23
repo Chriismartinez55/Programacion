@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\bin\Debug\lite bsd1.exe.config
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\bin\Debug\lite bsd1.exe
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\bin\Debug\lite bsd1.pdb
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\bin\Debug\LiteDB.dll
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\bin\Debug\LiteDB.xml
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite_bsd1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.exe
+C:\Users\Usuario\Desktop\lite DB\lite bsd1\lite bsd1\obj\Debug\lite bsd1.pdb
