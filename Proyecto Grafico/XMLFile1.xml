@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<usuarios>
+
+	<usuario nombre="Chris" apellido="Martinez" direccion="calle oriente" email="Cmartinez@example.com">
+		<telefono>7654321</telefono>
+		<fecha>05/05/2003</fecha>
+
+	</usuario>
+
+	<usuario nombre="Derick" apellido="Thevene" direccion="calle ozoria" email="thevenederick@example.com">
+		<telefono>13579</telefono>
+		<fecha>25/05/2003</fecha>
+
+	</usuario>
+
+	<usuario nombre="Oscar" apellido="Venegas" direccion="Calle salvador" email="venegas23@example.com">
+		<telefono>258741</telefono>
+		<fecha>02/11/2001</fecha>
+
+	</usuario>
+
+	<usuario nombre="Criistian" apellido="Vasquez" direccion="Calle Cristo salva" email="cv2501@example.com">
+		<telefono>3691215</telefono>
+		<fecha>25/01/2003</fecha>
+
+	</usuario>
+
+</usuarios>
